@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#phrase-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#buttons {
+    text-align: center;
+    margin-top: 20px;
+}
